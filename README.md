@@ -6,7 +6,7 @@
 ## Fonctionnement du patron
 
 <figure markdown>
-    !(patron de conception)[https://refactoring.guru/images/patterns/diagrams/flyweight/solution3-en.png?id=e861e35c1214c46ac7333a127462de68]
+    ![patron de conception](https://refactoring.guru/images/patterns/diagrams/flyweight/solution3-en.png?id=e861e35c1214c46ac7333a127462de68)
     <figcaption markdown>Diagramme UML de la structure du patron</figcaption>
 </figure>
 
