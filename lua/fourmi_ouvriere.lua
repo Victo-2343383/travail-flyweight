@@ -1,7 +1,7 @@
 local Fourmi = require "fourmi"
 ---@alias Ouvriere table
 
-local module
+local module = {}
 
 ---Créer une fourmi ouvrière
 ---@param taille number
@@ -14,7 +14,7 @@ function module.new(taille, couleur)
     ouvriere.nomType = "Ouvrière"
 
     function ouvriere.agir()
-        --action de la fourmi ouvrière
+        print("Je récolte de la nourriture...")
     end
 
     return ouvriere

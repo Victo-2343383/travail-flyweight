@@ -1,4 +1,4 @@
-local module
+local module = {}
 
 ---Créer un modèle de fourmi.
 ---@param taille number
